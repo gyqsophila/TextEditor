@@ -1,0 +1,10 @@
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\bin\Debug\3.5.exe
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\bin\Debug\3.5.pdb
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\obj\x86\Debug\_4._7.Form1.resources
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\obj\x86\Debug\_4._7.Form2.resources
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\obj\x86\Debug\_4._7.Properties.Resources.resources
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\obj\x86\Debug\4.7.csproj.GenerateResource.Cache
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\obj\x86\Debug\3.5.exe
+C:\Users\yanqi\Desktop\C#窗体作业\实验四\4.7\4.7\obj\x86\Debug\3.5.pdb
+D:\Knowledge MS\K_可视化编程\实验四\4.7\4.7\obj\x86\Debug\3.5.exe
+D:\Knowledge MS\K_可视化编程\实验四\4.7\4.7\obj\x86\Debug\3.5.pdb
